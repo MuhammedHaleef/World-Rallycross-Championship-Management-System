@@ -1,0 +1,6 @@
+Name,Age,Car,Team,Current_points
+MAX VERSTAPPEN,35,RedBull RB13,RedBull,230
+LOUISE HAMILTON,37,Mercedes Benz,Mercedes,215
+SINCOSTAN,20,bugatti chiron,Sentinal,258
+MUHAMMED HALEEF,20,Aston Martin,Lon 221b,210
+FELIX NORRIS,35,McLaren,Alha Tauri,195
